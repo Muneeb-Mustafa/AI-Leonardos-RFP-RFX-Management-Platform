@@ -1,5 +1,7 @@
 # Leonardo's RFQ Alchemy Platform
 
+[![Watch Demo](https://img.youtube.com/vi/dS4GQZjJKgk/maxresdefault.jpg)](https://youtu.be/dS4GQZjJKgk)
+
 An AI-powered proposal comparison and analysis platform that integrates React frontend with FastAPI backend and LangGraph AI agents.
 
 ## 🏗️ Architecture
